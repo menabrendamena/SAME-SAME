@@ -1,0 +1,35 @@
+id_formula,marca,gama,titulo_pagina,nombre_comercial,tono,formulas_en_linea,decision,nombre_comercial_corregido,justificacion
+F0040,catrice,economica,Secret Garden Lip Oil - C02 True Bloom,Secret Garden Lip Oil,C02 True Bloom,1,aceptar,,"Catrice Secret Garden Lip Oil en el tono C02 True Bloom es un aceite labial nutritivo con un acabado brillante y un toque de tono floral, existe sin el nombre del tono"
+F0050,catrice,economica,Secret Garden Lip Oil - C01 Lips Don't Lie,Secret Garden Lip Oil,C01 Lips Don't Lie,1,aceptar,,"Catrice Secret Garden Lip Oil en el tono C01 es un aceite labial nutritivo con un acabado brillante y un toque de tono floral, existe sin el nombre del tono"
+F0089,catrice,economica,Secret Garden Lip Oil - C03 Secret Kiss,Secret Garden Lip Oil,C03 Secret Kiss,1,aceptar,,"Catrice Secret Garden Lip Oil en el tono C03 es un aceite labial nutritivo con un acabado brillante y un toque de tono floral, existe sin el nombre del tono"
+F0118,chanel,alta,Rouge Allure L’extrait,Rouge Allure,Lextrait,2,reveritr,Rouge Allure L'extrait,"Lextrait NO  es un tono, es parte del nombre completo del producto"
+F0127,chanel,alta,Rouge Coco Baume Shine,Rouge Coco Baume,Shine,2,revertir,Rouge Coco Baume Shine,"Shine NO  es un tono, es parte del nombre completo del producto, tiene otros tonos"
+F0142,charlotte-tilbury,alta,Pillow Talk Love Effect Lipstick K.i.s.s.i.n.g ,Pillow Talk Love Effect Lipstick K.i.s.s.i.n.g,Naughty Talk,1,aceptar,,Naughty Talk SI es un tono
+F0153,clinique,alta,All About Lips [CAN],All About Lips,CAN,1,aceptar,,"CAN no es un tono, no sé de donde viene realmente pero no es tono ni es parte del nombre pero el titulo esta bien"
+F0155,clinique,alta,Superbalm Lip Treatment [CAN],Superbalm Lip Treatment,CAN,1,aceptar,,"CAN no es un tono, no sé de donde viene realmente pero no es tono ni es parte del nombre pero el titulo esta bien"
+F0164,clinique,alta,Moisture Surge™ Lip Hydro-Plump Treatment [CAN],Moisture Surge™ Lip Hydro-Plump Treatment,CAN,1,revertir,Moisture Surge Lip Hydro-Plump Treatment,"CAN no es un tono, no sé de donde viene realmente pero no es tono ni es parte del nombre"
+F0172,dior,alta,Rouge Dior Forever,Rouge Dior,Forever,3,revertir,Rouge Dior Forever Liquid,Forever es parte del nombre completo del producto
+F0179,dior,alta,Rouge Dior On Stage,Rouge Dior,On Stage,3,revertir,Rouge Dior On Stage,"On satge no es tono, es parte del nombre"
+F0199,elf,economica,Ride Or Die Lip Balm (Tough Cookie),Ride Or Die Lip Balm,Tough Cookie,2,aceptar,,Tough Cookie si es un tono
+F0200,elf,economica,Srsly Satin Lipstick (Cider),Srsly Satin Lipstick,Cider,1,aceptar,,cider es un tono
+F0214,elf,economica,Glow Reviver Lip Oil Glimmer,Glow Reviver Lip Oil,Glimmer,2,revertir,Glow Reviver Lip Oil Glimmer,glimmer es parte del nombre del producto
+F0230,essence,economica,What A Tint! Lip & Cheek Tint Peachy Vibes,What A Tint! Lip & Cheek Tint,Peachy Vibes,3,aceptar,,peachy vibes si es un tono
+F0281,essence,economica,Extreme Shine Volume Lipgloss Biscuit Bliss,Extreme Shine Volume Lipgloss,Biscuit Bliss,2,aceptar,,biscuit bliss sí es un tono
+F0294,essence,economica,This Is Nude Lipstick - Crazy,This Is Nude Lipstick,Crazy,2,aceptar,,crazy es un tono
+F0316,essence,economica,Hydra Kiss Lip Oil Classy Glassy,Hydra Kiss Lip Oil,Classy Glassy,3,aceptar,,classy glassy sí es un tono
+F0321,essence,economica,Hydra Kiss Lip Oil Pocketful Of Sunshine,Hydra Kiss Lip Oil,Pocketful Of Sunshine,3,aceptar,,Pocketful Of Sunshine es un tono
+F0338,fenty-beauty,alta,Gloss Bomb Ice Cooling Lip Luminizer Pineapple,Gloss Bomb Ice Cooling Lip Luminizer,Pineapple,2,aceptar,,Pineapple es un tono
+F0353,fenty-beauty,alta,Gloss Bomb - Glass Slipper,Gloss Bomb,Glass Slipper,1,revertir,Gloss Bomb Ice Cooling Lip Luminizer,Glass Slipper sí es un tono pero no estaba el nombre completo del producto
+F0454,maybelline,economica,Moisturizing Serum Lipstick (satin Finish),Moisturizing Serum Lipstick,satin Finish,1,aceptar,,"satin finish y matte finish NO son tonos, son los acabados del producto, entonces ambos son los mimos por lo que están repetidos, pero el nombre esta correcto"
+F0457,maybelline,economica,Moisturizing Serum Lipstick (matte Finish),Moisturizing Serum Lipstick,matte Finish,1,quitar repetido,,
+F0462,maybelline,economica,"Sensational Cushion Matte Lip Tint [matte Liptint, Cheektint, Colour Tint]",Sensational Cushion Matte Lip Tint,"matte Liptint, Cheektint, Colour Tint",1,aceptar,,"matte Liptint, Cheektint, Colour Tint no son tonos, son todos los acabados y forma de usar que me ofrece este producto pero el titulo es correcto"
+F0487,nyx,economica,"Fat Oil Lip Drip, Juicy Boo",Fat Oil Lip Drip,Juicy Boo,3,aceptar,,juicy boo es un tono
+F0512,nyx,economica,Fat Oil Lip Drip Chillz,Fat Oil Lip Drip,Chillz,3,aceptar,,Chillz es un tono
+F0525,nyx,economica,Butter Gloss Bling,Butter Gloss,Bling,2,revertir,Butter Gloss Bling,Bling no es un tono es parte del nombre
+F0613,too-faced,alta,Lip Injection Extreme Plumping Clicks ,Lip Injection Extreme,Plumping Clicks,2,revertir,Lip Injection Extreme Plumping Clicks ,el plumping clicks es parte del nombre completo
+F0618,too-faced,alta,Kissing Juicy Tint Lip Balm - Cream Soda,Kissing Juicy Tint Lip Balm,Cream Soda,1,aceptar,,cream soda si es un tono
+F0626,wet-n-wild,economica,Buzz Buzz Hunny Lip Gloss | Bee Nice,Buzz Buzz Hunny Lip Gloss,Bee Nice,1,aceptar,,Bee nice es un tono
+F0631,wet-n-wild,economica,Lip Oil Injector Plumping Lip Oil | Shimmer Me Baby,Lip Oil Injector Plumping Lip Oil,Shimmer Me Baby,1,aceptar,,Shimmer Me Baby si es un tono
+F0637,wet-n-wild,economica,Perfect Pout Gel Lip Liner | Lay Down The Mauves,Perfect Pout Gel Lip Liner,Lay Down The Mauves,2,aceptar,,Lay Down The Mauves si es un tono
+F0638,wet-n-wild,economica,Mega Glitter Shimmer Liquid Lipstick – Hear Me Out,Mega Glitter Shimmer Liquid Lipstick,Hear Me Out,1,aceptar,,Hear Me Out es un tono
+F0640,wet-n-wild,economica,Chameleon Chrome Lip Foil – Halo’s Way,Chameleon Chrome Lip Foil,Halos Way,1,aceptar,,Halos Way es un tono
