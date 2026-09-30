@@ -1,0 +1,23 @@
+marca,gama,origen,productos_totales,labiales_aproximados,labiales_detectados,productos_base_en_alcance,admitida,observacion
+laneige,alta,ampliacion,224,36,36,17,True,admitida
+dior,alta,nucleo,235,29,29,25,True,admitida
+mac,alta,nucleo,179,29,30,27,True,admitida
+yves-saint-laurent,alta,ampliacion,94,24,15,13,False,retirada por cobertura insuficiente
+charlotte-tilbury,alta,nucleo,105,21,22,18,True,admitida
+clinique,alta,ampliacion,371,21,21,17,True,admitida
+chanel,alta,ampliacion,212,20,18,18,True,admitida
+fenty-beauty,alta,ampliacion,86,20,20,18,True,admitida
+nars,alta,ampliacion,93,15,15,14,False,retirada por cobertura insuficiente
+too-faced,alta,nucleo,67,9,10,10,True,nucleo con cobertura limitada
+benefit,alta,nucleo,98,4,6,6,True,nucleo con cobertura limitada
+catrice,economica,nucleo,479,144,141,91,True,admitida
+essence,economica,nucleo,490,144,136,90,True,admitida
+revolution,economica,nucleo,832,80,78,66,True,admitida
+loreal,economica,nucleo,1271,53,23,20,True,admitida
+elf,economica,ampliacion,433,45,44,34,True,admitida
+nyx,economica,nucleo,225,44,43,42,True,admitida
+wet-n-wild,economica,nucleo,138,30,31,26,True,admitida
+maybelline,economica,nucleo,253,29,35,32,True,admitida
+milani,economica,nucleo,116,28,28,25,True,admitida
+kiko,economica,nucleo,196,25,22,19,True,admitida
+revlon,economica,ampliacion,131,23,24,23,True,admitida
